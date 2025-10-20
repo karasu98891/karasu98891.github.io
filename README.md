@@ -1,1 +1,15 @@
 # karasu98891.github.io
+
+<html>
+<head>
+  <title>
+    Karasu-site – home
+  </title>
+  <meta name="google-adsense-account" content="ca-pub-3023491909712622">
+</head>
+  <body>
+    <p>
+      teste
+    </p>
+  </body>
+</html>
